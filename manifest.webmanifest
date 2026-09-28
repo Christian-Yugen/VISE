@@ -1,0 +1,11 @@
+{
+  "name": "VISE — Inventário Inteligente",
+  "short_name": "VISE",
+  "description": "Contagem de estoque do cliente com catálogo incorporado.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#17365d",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
